@@ -1,5 +1,7 @@
 # vuex-shopping-cart
 
+This is the frontend Vue Js project ,, its's backend server is [https://github.com/CaMiMtoto/cart-backend-node-js-server](https://github.com/CaMiMtoto/cart-backend-node-js-server)
+
 ## Project setup
 ```
 npm install
